@@ -1,0 +1,29 @@
+{
+  "properties": [
+    {
+      "name": "admin.email",
+      "type": "java.lang.String",
+      "description": "Admin's email"
+    },
+    {
+      "name": "admin.password",
+      "type": "java.lang.String",
+      "description": "Admin's password"
+    },
+    {
+      "name": "admin.fname",
+      "type": "java.lang.String",
+      "description": "Admin's first name"
+    },
+    {
+      "name": "admin.lname",
+      "type": "java.lang.String",
+      "description": "Admin's last name"
+    },
+    {
+      "name": "app.jwt.secret",
+      "type": "java.lang.String",
+      "description": "JWT secret key"
+    }
+  ]
+}
